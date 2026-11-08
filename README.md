@@ -1,1 +1,1 @@
-# Expectation Formation & Survey data
+Information & Belief Formation
